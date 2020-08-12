@@ -1,0 +1,63 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.samesidebar {
+  margin-bottom: 10px;
+}
+.samesidebar h2 {
+  background: #2B94FF none repeat scroll 0 0;
+  border-bottom: 2px solid #0069D9;
+  color: white;
+  margin-bottom: 8px;
+  padding: 10px;
+}
+.samesidebar ul{padding:0;margin:0;list-style:none;}
+.samesidebar ul li {
+  border-bottom: 1px dashed #0069D9;
+  font-size: 16px;
+  padding: 5px 8px 5px 0;
+}
+.samesidebar ul li:last-child{border-bottom: 0px dashed #e9c05c;}
+.samesidebar ul li a {
+  color: #814a00;
+  text-decoration: none;
+}
+.samesidebar ul li a:hover{color:#DF5C25;}
+.samesidebar p {
+  margin-bottom: 10px;
+}
+
+.popular {
+  margin-bottom: 20px;
+}
+.popular h3 {
+  border-bottom: 1px dashed #b7801c;
+  font-size: 20px;
+  font-weight: normal;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+.popular h3 a{text-decoration:none;color:#444}
+.popular img {
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #f6bf5b;
+  border-radius: 30px;
+  float: left;
+  height: 40px;
+  margin-right: 10px;
+  margin-top: 5px;
+  padding: 3px;
+  width: 55px;
+}
+.popular p{}
+.footersection{height:90px;background:#B7801C;text-align:center}
+.footermenu {
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
